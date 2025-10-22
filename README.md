@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour,  je m'appelle Etiolate 🐾 !</h1>
+<h1 align="center">Bonjour,  je m'appelle Etiolate ! 🐾</h1>
 <h3 align="center">Développeuse junior passionnée par la création d'applications modernes et dynamiques. Récemment diplômée d'une formation intensive en développement web & mobile, je suis motivée, curieuse et toujours en quête de nouveaux défis !</h3>
 
 ---
